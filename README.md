@@ -37,11 +37,3 @@ Tengo una formación sólida en **Bases de Datos** y **Programación Orientada a
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <span title="Programación Orientada a Objetos">🧩 POO</span> | <span title="Estructuras de Datos">📚 Estructuras de Datos</span>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&locale=es" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&locale=es" alt="Top Langs" height="150"/>
-</div>
